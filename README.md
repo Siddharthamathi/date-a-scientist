@@ -26,7 +26,7 @@ The project will conclude with the evaluation of the machine learning model sele
 
 The dataframe had 59,946 rows and 31 columns, this is a good sign since there seems to be enough data for machine learning.
 
-The columns in the dataset include:
+**The columns in the dataset include:**
 
 age: continuous variable of age of user
 
@@ -70,7 +70,7 @@ last_online: date variable of last login
 
 location: categorical variable of user locations
 
-And a set of open short-answer responses to :
+**And a set of open short-answer responses to :**
 
 essay0: My self summary
 
